@@ -1,4 +1,4 @@
-### Docker Image with MySQL, Apache, PHP7.2, Node.js  based on Debian
+### Docker Image with MySQL, Apache, PHP7.2   based on Debian
 
 ## Environment Variables 
 the same of mysql image
